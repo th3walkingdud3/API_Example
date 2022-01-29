@@ -13,8 +13,10 @@ Once the build is complete, find the image id:
 `docker image ls -a'
 
 You should see something like this:
-`REPOSITORY                    TAG                                                         IMAGE ID       CREATED          SIZE
-apitest                       latest                                                      abbfe255f4f5   27 minutes ago   665MB`
+
+| REPOSITORY                   | TAG                   | IMAGE ID       | CREATED          | SIZE  |
+| ---------------------------- | --------------------- | -------------- | ---------------- | ----- |
+| apitest                      | latest                | abbfe255f4f5   | 27 minutes ago   | 665MB |
 
 
 Copy the image id and run:
