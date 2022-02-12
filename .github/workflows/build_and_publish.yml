@@ -38,7 +38,7 @@ jobs:
           # Note: tags has to be all lower-case
           tags: |
             rwl0006/api_example:latest 
-            ghcr.io/rwl0006/api_example:latest
+            ghcr.io/th3walkingdud3/api_example:latest
           # build on feature branches, push only on main branch
           push: ${{ github.ref == 'refs/heads/main' }}
 
