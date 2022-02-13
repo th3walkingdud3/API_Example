@@ -1,4 +1,4 @@
-FROM python:3.8.0-slim
+FROM python:3.11.0a4-slim
 COPY . ~/
 WORKDIR ~/
 RUN pip install -r requirements.txt
