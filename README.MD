@@ -4,6 +4,8 @@ The `jupyter` folder has the notebook used to create the model and export it.
 
 The `docker` folder has the Dockerfile needed to build the container that will serve the api that uses the model.
 
+(or you can pull the container I built by running `docker pull ghcr.io/th3walkingdud3/api_example:latest` from command line)
+
 On the command line, navigate to the 'docker' folder and build the docker image:
 `docker build -t apitest:latest .`   
 Make sure you include the period at the end of the command above.
