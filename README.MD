@@ -1,3 +1,5 @@
+<a href="https://github.com/th3walkingdud3/API_Example/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/th3walkingdud3/API_Example"></a>    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/th3walkingdud3/API_Example/API%20Demo%20Build">
+
 Pull this repo
 
 The `jupyter` folder has the notebook used to create the model and export it.
